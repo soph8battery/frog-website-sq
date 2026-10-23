@@ -1,0 +1,10 @@
+img {
+    width: 1024px;
+}
+
+body{
+    text-align: center;
+    font-family:'Times New Roman';
+    background: lightskyblue;
+    color: darkgrey;
+}
